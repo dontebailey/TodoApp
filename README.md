@@ -1,6 +1,4 @@
-<header style = "font-size: 30px";>Todo App</header>
-
-<br><br>
+# Todo App
 
 ## About the Project
 
